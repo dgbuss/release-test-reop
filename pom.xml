@@ -28,4 +28,16 @@
             <scope>test</scope>
         </dependency>
     </dependencies>
+
+    <build>
+        <plugins>
+            <plugin>
+                <groupId>com.flexiblewebsolutions</groupId>
+                <artifactId>postrel-maven-plugin</artifactId>
+                <version>1.0.1</version>
+            </plugin>
+
+        </plugins>
+    </build>
+
 </project>
