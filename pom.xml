@@ -3,7 +3,7 @@
 
     <groupId>com.flexiblewebsolutions</groupId>
     <artifactId>release-test-reop</artifactId>
-    <version>2.2</version>
+    <version>2.3-SNAPSHOT</version>
     <packaging>jar</packaging>
 
     <name>release-test-reop</name>
@@ -17,7 +17,7 @@
         <url>https://github.com/dgbuss/release-test-reop.git</url>
         <connection>scm:git:git://github.com/dgbuss/release-test-reop.git</connection>
         <developerConnection>scm:git:git@github.com:dgbuss/release-test-reop.git</developerConnection>
-      <tag>release-test-reop-2.2</tag>
+      <tag>master</tag>
   </scm>
 
     <dependencies>
